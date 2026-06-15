@@ -1,0 +1,10 @@
+Administrador:
+admin 
+Contraseña: admin123
+
+Odontólogo:  
+Carlos 
+Contraseña: dentista123
+
+Paciente: ana  
+Contraseña: paciente123
